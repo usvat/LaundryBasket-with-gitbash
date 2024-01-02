@@ -1,0 +1,16 @@
+
+/* Content column */
+
+/* Clear floats after the columns */
+
+.row{
+  background-color: rgba(239,239,239,0.45);
+}
+@media screen and (max-width: 600px) {
+    .column.side, .column.middle {
+        width: 100%;
+    }
+}
+
+
+
